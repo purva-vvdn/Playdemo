@@ -21,5 +21,4 @@ const { chromium } = require('playwright');  // You can also use firefox or webk
   
   // Close the browser
   await browser.close();
-})
-();
+})();
